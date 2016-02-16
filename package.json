@@ -1,0 +1,24 @@
+{
+  "name": "node-csgotm",
+  "version": "1.0.0",
+  "description": "asdasdas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperDoker/node-csgotm.git"
+  },
+  "keywords": [
+    "node",
+    "csgo",
+    "csgotm"
+  ],
+  "author": "Ilya Dashkin <http://doker.pw>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperDoker/node-csgotm/issues"
+  },
+  "homepage": "https://github.com/SuperDoker/node-csgotm#readme"
+}
